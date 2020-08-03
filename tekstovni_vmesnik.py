@@ -7,6 +7,8 @@ def izpis_igre(igra):
         "Število preostalih poskusov: {}\n".format(model.STEVILO_DOVOLJENIH_NAPAK - igra.stevilo_napak())
     )
 
+#neki
+
 def izpis_zmage(igra):
     return (
         "Čestitam, uganil si geslo {}\n".format(igra.geslo) +
